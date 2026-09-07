@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Arnold Silva 👋
 
-<!--
-**arnoldsantos/arnoldsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na SPTech (1º semestre)
+🏫 Formado em Desenvolvimento de Sistemas pelo SENAI
 
-Here are some ideas to get you started:
+💻 Tecnologias e ferramentas:
+- HTML, CSS, JavaScript
+- Python
+- React
+- Node.js
+- MySQL
+- Figma (prototipagem)
+- Redes de Computadores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+- LinkedIn: www.linkedin.com/in/arnold-silva-35324122b
+- Email: arnoldsilvaa05@gmail.com
+
+⭐ Sinta-se à vontade para dar uma olhada nos meus repositórios!
