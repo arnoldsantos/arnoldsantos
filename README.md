@@ -1,4 +1,4 @@
-# Olá, eu sou o Arnold Silva 👋
+# Olá, Meu nome é Arnold 👋
 
 🎓 Estudante de Ciência da Computação na SPTech (1º semestre)
 🏫 Formado em Desenvolvimento de Sistemas pelo SENAI
